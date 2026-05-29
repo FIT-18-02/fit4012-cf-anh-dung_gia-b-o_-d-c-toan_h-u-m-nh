@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hộp thư đến - Gmail Mô phỏng</title>
+    <style>
+        body {
+            font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+            background-color: #f4f5f7;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .email-container {
+            background-color: white;
+            width: 100%;
+            max-width: 700px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+            border: 1px solid #e0e0e0;
+            overflow: hidden;
+        }
+        .email-header {
+            background-color: #f6f8fc;
+            padding: 15px 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .subject {
+            font-size: 20px;
+            color: #202124;
+            font-weight: 400;
+            margin-bottom: 12px;
+        }
+        .sender-info {
+            display: flex;
+            flex-direction: column;
+            font-size: 13px;
+            color: #5f6368;
+        }
+        .sender-name {
+            color: #202124;
+            font-weight: bold;
+        }
+        .email-body {
+            padding: 25px 20px;
+            font-size: 15px;
+            line-height: 1.6;
+            color: #202124;
+        }
+        .highlight {
+            color: #d93025;
+            font-weight: bold;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #1a73e8;
+            color: white !important;
+            text-decoration: none;
+            padding: 12px 30px;
+            font-weight: 500;
+            font-size: 14px;
+            border-radius: 4px;
+            margin: 25px 0;
+            box-shadow: 0 1px 2px 0 rgba(60,64,67,0.3), 0 1px 3px 1px rgba(60,64,67,0.15);
+            transition: background-color 0.2s;
+        }
+        .cta-button:hover {
+            background-color: #1557b0;
+        }
+        .footer {
+            margin-top: 30px;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 15px;
+            font-size: 13px;
+            color: #5f6368;
+        }
+    </style>
+</head>
+<body>
+
+<div class="email-container">
+    <div class="email-header">
+        <div class="subject">[QUAN TRỌNG] Thư mời tham dự Gala Dinner Cuối Năm & Nhận Quà Tri Ân từ Khoa CNTT</div>
+        <div class="sender-info">
+            <div>Từ: <span class="sender-name">Khoa Công nghệ thông tin - Đại học Đại Nam</span> &lt;khoacntt.dainam@gmail.com&gt;</div>
+            <div>Tới: Toàn thể sinh viên Khoa CNTT &lt;sinhvien@dainam.edu.vn&gt;</div>
+        </div>
+    </div>
+    
+    <div class="email-body">
+        <p>Chào các em sinh viên Khoa CNTT,</p>
+        
+        <p>Để chúc mừng một năm học với nhiều thành tích xuất sắc, Văn phòng Khoa phối hợp cùng các doanh nghiệp đối tác tổ chức buổi tiệc Gala Dinner ấm cúng dành riêng cho sinh viên trong Khoa.</p>
+        
+        <p>Đặc biệt, <span class="highlight">50 sinh viên đăng ký đầu tiên</span> tham dự tiệc sẽ nhận được một phần quà tri ân đặc biệt từ nhà tài trợ (Gồm 01 bộ chuột và bàn phím cơ Gaming).</p>
+        
+        <p>Vì số lượng quà tặng có hạn từ đối tác, các em vui lòng nhấn vào nút bên dưới để xác nhận thông tin tham gia trước 24h ngày hôm nay.</p>
+        
+        <center>
+            <a href="canh-bao.html" class="cta-button">XÁC NHẬN THAM GIA & NHẬN QUÀ NGAY</a>
+        </center>
+        
+        <div class="footer">
+            Trân trọng,<br>
+            <strong>Văn phòng Khoa Công nghệ thông tin - Trường Đại học Đại Nam.</strong><br>
+            Phố Xốm, Phú Lãm, Hà Đông, Hà Nội.
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
