@@ -110,6 +110,78 @@
 
 ---
 
+### NHÓM 7
+
+* **Điểm thành phần:**
+  * 1. Hiểu đúng vấn đề: 1
+  * 2. Demo rõ ràng: 1
+  * 3. Biện pháp phòng thủ: 1
+  * 4. Bằng chứng đầy đủ: 1
+  * 5. Mô hình mối đe dọa: 1.0
+  * 6. Đạo đức và An toàn: 0.5
+  * 7. Trình bày tốt: 0.5
+
+* **TỔNG ĐIỂM NHÓM 7:** **6/10**
+
+
+---
+### NHÓM 2
+
+* **Điểm thành phần:**
+  * 1. Hiểu đúng vấn đề: 1
+  * 2. Demo rõ ràng: 1
+  * 3. Biện pháp phòng thủ: 1
+  * 4. Bằng chứng đầy đủ: 1
+  * 5. Mô hình mối đe dọa: 0.5
+  * 6. Đạo đức và An toàn: 0.5
+  * 7. Trình bày tốt: 0.5
+
+* **TỔNG ĐIỂM NHÓM 2:** **5.5/10**
+
+
+---
+### NHÓM 9
+
+* **Điểm thành phần:**
+  * 1. Hiểu đúng vấn đề: 1
+  * 2. Demo rõ ràng: 1
+  * 3. Biện pháp phòng thủ: 1
+  * 4. Bằng chứng đầy đủ: 1
+  * 5. Mô hình mối đe dọa: 1.0
+  * 6. Đạo đức và An toàn: 0.5
+  * 7. Trình bày tốt: 0.5
+
+* **TỔNG ĐIỂM NHÓM 9:** **6/10**
+
+
+---
+### NHÓM 3
+
+* **Điểm thành phần:**
+  * 1. Hiểu đúng vấn đề: 0.5
+  * 2. Demo rõ ràng: 1
+  * 3. Biện pháp phòng thủ: 1
+  * 4. Bằng chứng đầy đủ: 1
+  * 5. Mô hình mối đe dọa: 1.0
+  * 6. Đạo đức và An toàn: 0.5
+  * 7. Trình bày tốt: 0.5
+
+* **TỔNG ĐIỂM NHÓM 3:** **5.5/10**
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
